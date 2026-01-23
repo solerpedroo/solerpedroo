@@ -1,16 +1,26 @@
 <div align="center">
-  <h1>Pedro Henrique Contardi Soler</h1>
-  <p><strong>Software Engineering Student | Informatics Technician</strong></p>
-  <p><em>Software Engineering Intern at Nola</em></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pedro+Soler;Software+Engineer" alt="Typing SVG" />
+  </a>
+</div>
 
-  <a href="https://github.com/solerpedroo" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<div align="center">
+  <p><em>Software Engineering Intern at Nola | PUC Campinas Student</em></p>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/solerpedroo?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-6e40c9?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/solerpedroo?tab=repositories" title="View Projects">
-    <img src="https://img.shields.io/badge/View-Projects-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="mailto:pedrocsoler@hotmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -18,7 +28,7 @@
 
 ---
 
-### Professional Profile
+### 🚀 Professional Profile
 
 Software Engineering student at PUC Campinas and certified Informatics Technician, currently working as a Software Engineering Intern at Nola. I possess comprehensive experience across multiple programming paradigms and technologies, with expertise in:
 
@@ -32,69 +42,33 @@ My technical approach combines robust software engineering principles with pract
 
 ---
 
-### Technical Stack
+### 🛠️ Technical
 
 <div align="center">
-  <table style="border-collapse: separate; border-spacing: 20px 0;">
-    <tr>
-      <td align="center" valign="top">
-        <strong>Software Development & Languages</strong>
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,nodejs,git,supabase&theme=dark&perline=5" 
-             alt="Python, C, C++, JavaScript, TypeScript, HTML, CSS, Node.js, Git, Supabase"
-             title="Python, C, C++, JavaScript, TypeScript, HTML, CSS, Node.js, Git, Supabase" />
-      </td>
-      <td align="center" valign="top">
-        <strong>Hardware & Development Tools</strong>
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=arduino,opencv,mysql,anaconda,vscode,visualstudio,windows&theme=dark&perline=5" 
-             alt="Arduino, OpenCV, MySQL, Anaconda, VS Code, Visual Studio, Windows"
-             title="Arduino, OpenCV, MySQL, Anaconda, VS Code, Visual Studio, Windows" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,nodejs,git,supabase,arduino,opencv,mysql,vscode,visualstudio,windows&theme=dark&perline=11" />
 </div>
 
 <br />
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solerpedroo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" 
-         alt="GitHub Statistics"
-         title="GitHub Statistics" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" 
-         alt="Most Used Programming Languages"
-         title="Most Used Programming Languages" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=solerpedroo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
   </div>
 </div>
 
 <br />
 
----
-
-### Contact
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:pedrocsoler@hotmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/solerpedroo/solerpedroo/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/solerpedroo/solerpedroo/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/solerpedroo/solerpedroo/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
-
-<div align="center">
-
-| Platform | Details |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/pedro-henrique-contardi-soler](https://www.linkedin.com/in/pedro-henrique-contardi-soler/) |
-| **Email** | [pedrocsoler@hotmail.com](mailto:pedrocsoler@hotmail.com) |
-
-</div>
