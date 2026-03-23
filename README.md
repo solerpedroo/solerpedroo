@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p><em>Software Engineering Intern at Nola | PUC Campinas Student</em></p>
+  <p><em>Software Engineering Student at PUC Campinas</em></p>
 </div>
 
 <br />
