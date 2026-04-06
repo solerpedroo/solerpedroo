@@ -30,7 +30,7 @@
 
 ### 🚀 Professional Profile
 
-Software Engineering student at PUC Campinas and certified Informatics Technician, currently working as a Software Engineering Intern at Nola. I possess comprehensive experience across multiple programming paradigms and technologies, with expertise in:
+Software Engineering student at PUC Campinas and certified Informatics Technician. I possess comprehensive experience across multiple programming paradigms and technologies, with expertise in:
 
 - **Backend Development:** Python, C, C++, Node.js, and database management
 - **Frontend & Web Technologies:** JavaScript, TypeScript, HTML, CSS, and modern web development practices
