@@ -1,3 +1,5 @@
+<!-- Cole no README do repositório de perfil: github.com/solerpedroo/solerpedroo -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pedro+Soler;Software+Engineer" alt="Typing SVG" />
@@ -32,20 +34,20 @@
 
 Software Engineering student at PUC Campinas and certified Informatics Technician. I possess comprehensive experience across multiple programming paradigms and technologies, with expertise in:
 
-- **Backend Development:** Python, C, C++, Node.js, and database management
-- **Frontend & Web Technologies:** JavaScript, TypeScript, HTML, CSS, and modern web development practices
-- **Hardware & Embedded Systems:** Arduino programming, computer vision with OpenCV, and hardware-software integration
-- **Databases & Cloud:** MySQL for relational databases and Supabase for backend-as-a-service solutions
-- **Development Tools:** Git version control, Visual Studio Code, and comprehensive development environments
+- **Backend Development:** Python, Node.js, **Django**, and **C / C++**, plus API and service design
+- **Frontend & Web Technologies:** JavaScript, TypeScript, HTML, CSS, **Vue.js**, **Nuxt.js**, **React Native**, **Dart**, **Flutter**, and modern web practices
+- **Hardware & Applied ML:** Arduino, computer vision with **OpenCV**, **CNNs**, **YOLO**, hardware–software integration, **generative AI**, and **MCP (Model Context Protocol)**
+- **Databases & Cloud:** **MySQL**, **PostgreSQL**, **Supabase**, **Firebase**, **AWS**, **Docker**, and the **Serverless Framework**
+- **Mobile & Tooling:** **Android Studio**, Git, Visual Studio Code, Visual Studio, and Windows-based development environments
 
-My technical approach combines robust software engineering principles with practical hardware integration, focusing on creating scalable, efficient, and innovative solutions. I excel in collaborative environments, bringing strong organizational skills, leadership capabilities, and entrepreneurial thinking to every project. With advanced English proficiency and a continuous learning mindset, I'm committed to applying my technical expertise to solve complex challenges and deliver impactful technological solutions.
+My technical approach combines robust software engineering principles with practical hardware integration, focusing on scalable, efficient, and innovative solutions. I excel in collaborative environments, with strong organization, leadership, and entrepreneurial drive. Advanced English and continuous learning keep me oriented toward complex challenges and high-impact delivery.
 
 ---
 
 ### 🛠️ Technical
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,nodejs,git,supabase,arduino,opencv,mysql,vscode,visualstudio,windows&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,nodejs,git,supabase,arduino,opencv,mysql,vscode,visualstudio,windows,dart,flutter,firebase,vue,nuxtjs,django,react,postgres,aws,docker,androidstudio,pytorch&theme=dark&perline=11" />
 </div>
 
 <br />
