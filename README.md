@@ -34,7 +34,7 @@
 
 Software Engineering student at PUC Campinas and certified Informatics Technician. I possess comprehensive experience across multiple programming paradigms and technologies, with expertise in:
 
-- **Backend Development:** Python, Node.js, **Django**, and **C / C++**, plus API and service design
+- **Backend Development:** Python, Node.js, **Django**, and **C / C++**
 - **Frontend & Web Technologies:** JavaScript, TypeScript, HTML, CSS, **Vue.js**, **Nuxt.js**, **React Native**, **Dart**, **Flutter**, and modern web practices
 - **Hardware & Applied ML:** Arduino, computer vision with **OpenCV**, **CNNs**, **YOLO**, hardware–software integration, **generative AI**, and **MCP (Model Context Protocol)**
 - **Databases & Cloud:** **MySQL**, **PostgreSQL**, **Supabase**, **Firebase**, **AWS**, **Docker**, and the **Serverless Framework**
