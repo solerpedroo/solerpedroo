@@ -59,8 +59,17 @@ My technical approach combines robust software engineering principles with pract
 <div align="center">
   <img
     alt="GitHub Streak"
-    height="200"
+    height="180"
     src="https://github-readme-streak-stats.herokuapp.com/?user=solerpedroo&theme=algolia&locale=en_us"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solerpedroo&layout=compact&theme=algolia&hide_border=false" 
   />
 </div>
 
