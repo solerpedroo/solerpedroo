@@ -2,23 +2,26 @@
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#00b4d8"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
       <stop offset="30%" stop-color="#58a6ff" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#7c3aed" stop-opacity="1"/>
-      <stop offset="70%" stop-color="#7c3aed" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00b4d8" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#00b4d8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00b4d8" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>
+    .pulse { animation: pulseAnim 4s infinite alternate cubic-bezier(0.4, 0, 0.2, 1); }
+    @keyframes pulseAnim { 
+      0% { opacity: 0.6; width: 40px; transform: translateX(430px); } 
+      100% { opacity: 1; width: 140px; transform: translateX(380px); } 
+    }
+  </style>
   <text x="450" y="48" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="800" font-size="26" fill="#e6edf3" letter-spacing="4">
     TECHNICAL SKILLS &amp; CORE TOOLING
   </text>
-  <rect x="380" y="64" width="140" height="3" rx="1.5" fill="url(#accent)" opacity="0.8">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="width" values="80;160;80" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="x" values="410;370;410" dur="4s" repeatCount="indefinite"/>
-  </rect>
+  <rect class="pulse" y="65" height="3" rx="1.5" fill="url(#accent)"/>
   <rect x="150" y="66" width="600" height="1" fill="url(#line)" opacity="0.15"/>
 </svg>

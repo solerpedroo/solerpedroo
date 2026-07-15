@@ -90,10 +90,6 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Mobile-7c3aed?style=flat-square&labelColor=0d1117" alt="Mobile" />&nbsp;
-          <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square&labelColor=0d1117" alt="AI" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/driveflow">DriveFlow</a></h3>
         <p align="center"><strong>Strategic & Financial Rideshare Platform</strong></p>
         <p>Comprehensive operational hub for rideshare drivers. Integrates offline-first caching, interactive map telemetry, and a contextual LLM that analyzes live driver metrics to offer actionable business recommendations.</p>
@@ -101,10 +97,6 @@
         <p><code>Flutter</code> <code>Dart</code> <code>Supabase</code> <code>AI Integration</code> <code>Clean Architecture</code></p>
       </td>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Web-58a6ff?style=flat-square&labelColor=0d1117" alt="Web" />&nbsp;
-          <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square&labelColor=0d1117" alt="AI" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/code-graph">CodeGraph</a></h3>
         <p align="center"><strong>AI Code Architecture Visualizer</strong></p>
         <p>Interactive developer tool that parses and maps file-level dependency structures in large repositories. Identifies cyclic dependencies, visualizes codebase modularity via graph theory, and interfaces with AI models for structural summaries.</p>
@@ -114,10 +106,6 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Backend-30363d?style=flat-square&labelColor=0d1117" alt="Backend" />&nbsp;
-          <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square&labelColor=0d1117" alt="AI" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/reuniai">ReuniAI</a></h3>
         <p align="center"><strong>Meeting Transcription & Intelligence Hub</strong></p>
         <p>Autonomous bot integration for Google Meet, Zoom, and Teams. Manages real-time audio capturing pipelines, orchestrates speech-to-text processing via Whisper API, and applies semantic extraction via LLMs to generate executive summaries.</p>
@@ -125,10 +113,6 @@
         <p><code>TypeScript</code> <code>Node.js</code> <code>WebRTC</code> <code>Whisper API</code> <code>LLMOps</code></p>
       </td>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Web-58a6ff?style=flat-square&labelColor=0d1117" alt="Web" />&nbsp;
-          <img src="https://img.shields.io/badge/Finance-30363d?style=flat-square&labelColor=0d1117" alt="Finance" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/quantix-ai">Quantix AI</a></h3>
         <p align="center"><strong>Predictive Stock & Crypto Analytics</strong></p>
         <p>High-performance financial dashboard for Brazilian stocks and cryptocurrencies. Aggregates data from multiple APIs, executes sentiment scanning, computes technical indicators, and leverages Groq LLM for automated investment recommendations.</p>
@@ -138,10 +122,6 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Vision-7c3aed?style=flat-square&labelColor=0d1117" alt="Vision" />&nbsp;
-          <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square&labelColor=0d1117" alt="AI" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/projeto_integrador">Safe Vision</a></h3>
         <p align="center"><strong>Workplace & Road Safety Computer Vision</strong></p>
         <p>Award-winning real-time safety tracking system. Processes live video streams to detect compliance with safety standards and PPE usage. Built with custom-trained YOLOv8 convolutional networks optimized for high-throughput inference.</p>
@@ -149,10 +129,6 @@
         <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>CNN</code></p>
       </td>
       <td width="50%" valign="top">
-        <p align="center">
-          <img src="https://img.shields.io/badge/Web-58a6ff?style=flat-square&labelColor=0d1117" alt="Web" />&nbsp;
-          <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square&labelColor=0d1117" alt="AI" />
-        </p>
         <h3 align="center"><a href="https://github.com/solerpedroo/codefix-ai">CodeFix AI</a></h3>
         <p align="center"><strong>Self-Healing Code Quality Auditor</strong></p>
         <p>Analyzes source code for syntax anomalies, memory leaks, and style violations. Parses the AST, interfaces with Groq API for intelligent analysis, and returns side-by-side diffs showing original vs. automatically generated fix patches.</p>
@@ -203,16 +179,19 @@
   <table>
     <tr>
       <td width="33%" align="center" valign="top">
-        <h4>AI, Vision & Hardware</h4>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&theme=dark" alt="AI & Hardware" />
+        <img src="assets/title-sub-ai.svg" alt="AI, Vision & Hardware" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&theme=dark" height="45" alt="AI & Hardware" />
       </td>
       <td width="33%" align="center" valign="top">
-        <h4>Frontend & Mobile</h4>
-        <img src="https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,flutter,dart&theme=dark" alt="Frontend & Mobile" />
+        <img src="assets/title-sub-frontend.svg" alt="Frontend & Mobile" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,flutter,dart&theme=dark" height="45" alt="Frontend & Mobile" />
       </td>
       <td width="33%" align="center" valign="top">
-        <h4>Backend & Cloud</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,supabase,firebase&theme=dark" alt="Backend & Cloud" />
+        <img src="assets/title-sub-backend.svg" alt="Backend & Cloud" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,supabase,firebase&theme=dark" height="45" alt="Backend & Cloud" />
       </td>
     </tr>
   </table>
@@ -225,7 +204,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,c,cpp,docker,git,vscode,androidstudio,gcp&theme=dark" alt="Also Experienced With" />
+  <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,c,cpp,docker,git,vscode,androidstudio,gcp&theme=dark" height="45" alt="Also Experienced With" />
 </div>
 
 <br />
@@ -240,10 +219,10 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=solerpedroo&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" alt="GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.anuraghazra.com/api?username=solerpedroo&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Top Languages" />
+        <img height="180" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
