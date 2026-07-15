@@ -253,3 +253,10 @@
 <p align="center">
   <img src="assets/footer.svg" alt="" width="900" style="max-width:100%; height:auto;" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/">LinkedIn</a> &middot;
+  <a href="mailto:pedrocsoler@hotmail.com">pedrocsoler@hotmail.com</a> &middot;
+  <a href="https://solerpedroo.github.io/portfolio-pedro/">Portfolio</a>
+</p>
+

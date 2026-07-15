@@ -18,12 +18,12 @@
   <line x1="885" y1="20" x2="885" y2="100" stroke="#58a6ff" stroke-width="1.5" opacity="0.4"/>
 
   <text x="450" y="38" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" font-size="14" fill="#8b949e" letter-spacing="0.3">
-    Software Engineering student at PUC Campinas &amp; certified Informatics Technician, focused on
+    Software Engineering student focused on <tspan fill="#58a6ff" font-weight="700">backend development</tspan>, <tspan fill="#58a6ff" font-weight="700">artificial intelligence</tspan>,
   </text>
   <text x="450" y="64" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" font-size="14" fill="#8b949e" letter-spacing="0.3">
-    building production-quality systems across <tspan fill="#58a6ff" font-weight="700">AI &amp; Computer Vision</tspan>, <tspan fill="#58a6ff" font-weight="700">Mobile</tspan>, and <tspan fill="#58a6ff" font-weight="700">Cloud</tspan> —
+    <tspan fill="#58a6ff" font-weight="700">cloud technologies</tspan>, and <tspan fill="#58a6ff" font-weight="700">modern web applications</tspan>. I enjoy turning ideas into
   </text>
   <text x="450" y="90" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" font-size="14" fill="#e6edf3" letter-spacing="0.3">
-    from award-winning YOLOv8 safety platforms to LLM-powered developer tools and offline-first Flutter applications.
+    practical software while continuously improving my engineering skills.
   </text>
 </svg>
