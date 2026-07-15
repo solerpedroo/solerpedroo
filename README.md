@@ -96,42 +96,37 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/solerpedroo/code-graph">CodeGraph</a></h3>
-        <p align="center"><strong>AI Code Architecture Visualizer</strong></p>
-        <p>Interactive developer tool that parses and maps file-level dependency structures in large repositories. Identifies cyclic dependencies, visualizes codebase modularity via graph theory, and interfaces with AI models for structural summaries.</p>
+        <p>AI-powered platform that analyzes GitHub repositories or local projects, maps file dependencies, detects architectural cycles, and generates insights about system structure. Uses interactive visualization with React Flow and Dagre to turn code into actionable analysis. Speeds up documentation, onboarding, and software maintenance.</p>
         <hr />
-        <p><code>TypeScript</code> <code>React</code> <code>Graph Theory</code> <code>Node.js</code> <code>LLM APIs</code></p>
+        <p><code>A.I</code> <code>GitHub</code> <code>Web</code> <code>Systems</code></p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/solerpedroo/reuniai">ReuniAI</a></h3>
-        <p align="center"><strong>Meeting Transcription & Intelligence Hub</strong></p>
-        <p>Autonomous bot integration for Google Meet, Zoom, and Teams. Manages real-time audio capturing pipelines, orchestrates speech-to-text processing via Whisper API, and applies semantic extraction via LLMs to generate executive summaries.</p>
+        <p>ReuniAI turns meetings into actionable knowledge: you paste a Google Meet, Zoom, or Teams link, a bot joins the call, transcribes in real time, and AI generates summaries, decisions, action items, and follow-ups that stay organized for later search and execution.</p>
         <hr />
-        <p><code>TypeScript</code> <code>Node.js</code> <code>WebRTC</code> <code>Whisper API</code> <code>LLMOps</code></p>
+        <p><code>A.I</code> <code>LLM</code> <code>Productivity</code> <code>Transcription</code> <code>Next.js</code></p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/solerpedroo/quantix-ai">Quantix AI</a></h3>
-        <p align="center"><strong>Predictive Stock & Crypto Analytics</strong></p>
-        <p>High-performance financial dashboard for Brazilian stocks and cryptocurrencies. Aggregates data from multiple APIs, executes sentiment scanning, computes technical indicators, and leverages Groq LLM for automated investment recommendations.</p>
+        <p>QUANTIX AI is an AI-powered financial intelligence platform that analyzes assets across multiple markets (B3, US stocks, and cryptocurrencies) in real time, delivering automated technical analysis, trend-based scoring, and investment recommendations.</p>
         <hr />
-        <p><code>JavaScript ES6+</code> <code>Groq LLM</code> <code>Financial APIs</code> <code>HTML5/CSS3</code></p>
+        <p><code>LLM</code> <code>A.I</code> <code>Web</code> <code>Finance</code></p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/solerpedroo/projeto_integrador">Safe Vision</a></h3>
-        <p align="center"><strong>Workplace & Road Safety Computer Vision</strong></p>
-        <p>Award-winning real-time safety tracking system. Processes live video streams to detect compliance with safety standards and PPE usage. Built with custom-trained YOLOv8 convolutional networks optimized for high-throughput inference.</p>
+        <p>Award-winning project: 3rd place at the 14th Bragantec and 12th 3M Institute Science and Technology Fair (2024). Road safety system using computer vision.</p>
         <hr />
-        <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>CNN</code></p>
+        <p><code>Computer Vision</code> <code>Python</code> <code>OpenCV</code> <code>Security</code></p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/solerpedroo/codefix-ai">CodeFix AI</a></h3>
-        <p align="center"><strong>Self-Healing Code Quality Auditor</strong></p>
-        <p>Analyzes source code for syntax anomalies, memory leaks, and style violations. Parses the AST, interfaces with Groq API for intelligent analysis, and returns side-by-side diffs showing original vs. automatically generated fix patches.</p>
+        <p>CodeFix AI is an AI-based tool that analyzes code snippets (Python, JS, C, and others) to detect bugs, performance issues, and bad practice problems.</p>
         <hr />
-        <p><code>JavaScript</code> <code>Node.js</code> <code>Groq API</code> <code>Highlight.js</code> <code>MySQL</code></p>
+        <p><code>LLM</code> <code>A.I</code> <code>Web</code></p>
       </td>
     </tr>
   </table>
@@ -143,25 +138,66 @@
   <summary><strong>Additional Engineering Projects</strong></summary>
   <br />
 
-  ### [GitHub Analyzer](https://github.com/solerpedroo/github-analyzer)
-  Automated repository evaluation platform. Recursively parses folder structures and source code via the GitHub REST API and orchestrates LLM agents to generate comprehensive architecture documentation.
-  `JavaScript` `GitHub REST API` `Groq LLM` `Node.js`
+  ### <font color="#58a6ff">Computer Upgrade &amp; Maintenance Manual</font>
+  Comprehensive manual developed in 2022 with detailed instructions for computer upgrades and maintenance, including practical guides and technical tips.
 
-  ### [PDF Chatbot](https://github.com/solerpedroo/pdf-chatbot)
-  RAG pipeline for interactive PDF querying. Extracts text, generates embeddings, stores them in ChromaDB, and performs vector similarity search to ground LLM responses within document context.
-  `Python` `FastAPI` `Groq LLM` `ChromaDB` `RAG Pipeline`
+  `Documentation` `Technical` `Hardware`
 
-  ### [Cardápio AI](https://github.com/solerpedroo/cardapio-inteligente)
-  Food service automation platform. Integrates Stable Diffusion API for automated food image generation and Groq LLM for drafting commercial menu descriptions and pricing strategies.
-  `JavaScript` `Node.js` `Groq API` `Stable Diffusion API` `MySQL`
+  <br />
 
-  ### MaxWake
-  Embedded hardware-software system to prevent accidents caused by driver fatigue. Combines Arduino and ESP32 microcontrollers with facial landmark analysis algorithms to monitor sleep patterns and trigger sensory warnings.
-  `Arduino` `C++` `ESP32` `Face Analysis` `Hardware Sensors`
+  ### <font color="#58a6ff">Mapping Waste Disposal Points in Campinas</font>
+  2022 project mapping waste disposal points in Campinas, contributing to environmental awareness and improved waste management.
 
-  ### FullControl
-  Cloud automation and serverless orchestration prototype. Infrastructure-as-code routines utilizing the Serverless Framework to manage AWS Lambda functions and coordinate Dockerized microservice execution.
-  `Python` `AWS Lambda` `Serverless Framework` `Docker`
+  `Mapping` `Sustainability` `Community`
+
+  <br />
+
+  ### <a href="https://github.com/solerpedroo/projeto_integrador">MaxWake - Automotive Safety Sensor</a>
+  Finalist project at the 11th 3M Institute Science and Technology Fair (2023). Automotive safety system that detects driver drowsiness.
+
+  `Arduino` `Sensors` `Security` `IoT`
+
+  <br />
+
+  ### <font color="#58a6ff">Investment Guide for Young People</font>
+  Guide developed in 2023 to help young people with investments, financial education, and future planning.
+
+  `Financial Education` `Planning` `Youth`
+
+  <br />
+
+  ### <font color="#58a6ff">FullControl</font>
+  2025 project focused on system control and automation, developed during participation in innovation events.
+
+  `Automation` `Control` `Systems`
+
+  <br />
+
+  ### <a href="https://github.com/solerpedroo/pdf-chatbot">PDF Chatbot</a>
+  A tool that interprets PDFs and enables intelligent queries using Groq LLM. Delivers fast, contextual, and accurate answers from long documents. Designed for study, technical review, and automated document analysis.
+
+  `LLM` `A.I` `Web`
+
+  <br />
+
+  ### <a href="https://github.com/solerpedroo/github-analyzer">GitHub Analyzer</a>
+  A system that analyzes any public GitHub repository using data from the official API. Provides clear metrics on activity, contributors, languages, and code quality. Helps students, recruiters, and developers evaluate projects efficiently.
+
+  `LLM` `GitHub` `API` `Web`
+
+  <br />
+
+  ### <a href="https://github.com/solerpedroo/cardapio-inteligente">Cardápio AI</a>
+  An application that generates personalized meal plans based on preferences, goals, and dietary restrictions. Uses Groq LLM to produce structured and consistent meal suggestions. Simplifies meal planning in a practical, fast, and intelligent way.
+
+  `LLM` `Node.js` `Web`
+
+  <br />
+
+  ### <a href="https://github.com/solerpedroo/financapp">Mescla Invest</a>
+  Mescla Invest is PUC-Campinas Integrator Project III: a Flutter mobile app that simulates a startup investment ecosystem with digital token trading. Built with Firebase (Auth, Firestore, Storage, Node.js/TypeScript Functions) and service integrations for a real-world digital product experience.
+
+  `Flutter` `Dart` `Firebase` `Node.js` `Mobile`
 
 </details>
 
