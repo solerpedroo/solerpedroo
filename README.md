@@ -255,10 +255,10 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.anuraghazra.com/api?username=solerpedroo&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" alt="GitHub Stats" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=solerpedroo&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Top Languages" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=solerpedroo&layout=compact&theme=github_dark&hide_border=true&border_radius=8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
