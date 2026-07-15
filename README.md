@@ -173,37 +173,39 @@
   <img src="assets/title-skills.svg" alt="Technical Skills & Core Tooling" />
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <img src="assets/title-sub-ai.svg" alt="AI, Vision & Hardware" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&theme=dark" height="45" alt="AI & Hardware" />
-      </td>
-      <td width="33%" align="center" valign="top">
-        <img src="assets/title-sub-frontend.svg" alt="Frontend & Mobile" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,flutter,dart&theme=dark" height="45" alt="Frontend & Mobile" />
-      </td>
-      <td width="33%" align="center" valign="top">
-        <img src="assets/title-sub-backend.svg" alt="Backend & Cloud" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,supabase,firebase&theme=dark" height="45" alt="Backend & Cloud" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="assets/title-sub-ai.svg" alt="AI, Vision & Hardware" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,arduino&theme=dark" height="48" alt="AI & Hardware" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/title-sub-frontend.svg" alt="Frontend & Mobile" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,flutter,dart&theme=dark" height="48" alt="Frontend & Mobile" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/title-sub-backend.svg" alt="Backend & Cloud" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql,supabase,firebase&theme=dark" height="48" alt="Backend & Cloud" />
+</p>
 
 <br />
 
 <p align="center">
   <img src="assets/title-also.svg" alt="Also Experienced With" />
 </p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,c,cpp,docker,git,vscode,androidstudio,gcp&theme=dark" height="45" alt="Also Experienced With" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,c,cpp,docker,git,vscode,androidstudio,gcp&theme=dark" height="48" alt="Also Experienced With" />
+</p>
 
 <br />
 <img src="assets/divider.svg" alt="" width="100%" />
