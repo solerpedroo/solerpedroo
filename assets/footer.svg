@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="80" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="150" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
@@ -10,39 +10,78 @@
       <stop offset="100%" stop-color="#0064F5" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="rounded">
-      <rect width="900" height="80" rx="12"/>
+      <rect width="900" height="150" rx="12"/>
     </clipPath>
   </defs>
-  
+
+  <style>
+    .btn-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; cursor: pointer; }
+    .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 13px; fill: #e6edf3; cursor: pointer; }
+    .btn-dot { fill: #58a6ff; }
+  </style>
+
   <g clip-path="url(#rounded)">
     <!-- Background -->
-    <rect width="900" height="80" fill="url(#bg)"/>
-    <rect x="0.5" y="0.5" width="899" height="79" rx="11.5" stroke="#30363d" stroke-width="1" fill="none"/>
+    <rect width="900" height="150" fill="url(#bg)"/>
+    <rect x="0.5" y="0.5" width="899" height="149" rx="11.5" stroke="#30363d" stroke-width="1" fill="none"/>
     
-    <!-- Central separator line -->
-    <line x1="150" y1="40" x2="750" y2="40" stroke="url(#accent)" stroke-width="1" opacity="0.3"/>
-    
-    <!-- Pulse node -->
-    <circle cx="450" cy="40" r="4" fill="#58a6ff" opacity="0.8">
-      <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    
-    <!-- Text Elements -->
-    <text x="450" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" font-size="11" fill="#e6edf3" letter-spacing="3">
-      PEDRO HENRIQUE CONTARDI SOLER
+    <!-- Top separator accent -->
+    <rect x="0" y="0" width="900" height="2" fill="url(#accent)" opacity="0.8"/>
+
+    <!-- Subtle background particles / design elements -->
+    <g opacity="0.05">
+      <circle cx="100" cy="75" r="40" fill="#58a6ff"/>
+      <circle cx="800" cy="75" r="50" fill="#00b4d8"/>
+    </g>
+
+    <!-- Subtitle (CTA) -->
+    <text x="450" y="38" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" font-size="10" fill="#58a6ff" letter-spacing="3">
+      COLLABORATE &amp; CREATE
     </text>
-    <text x="450" y="56" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="600" font-size="9" fill="#58a6ff" letter-spacing="2">
-      SOFTWARE ENGINEER &middot; CAMPINAS, SP, BRAZIL
+
+    <!-- Headline (CTA) -->
+    <text x="450" y="62" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" font-size="16" fill="#e6edf3" letter-spacing="0.5">
+      Let's build the next generation of software together.
     </text>
-    
-    <!-- Bottom highlight -->
-    <rect x="0" y="78" width="900" height="2" fill="url(#accent)" opacity="0.8"/>
-    
-    <!-- Futuristic scanning line -->
-    <line x1="0" y1="0" x2="0" y2="80" stroke="#58a6ff" stroke-width="2" opacity="0.08">
-      <animate attributeName="x1" from="-50" to="950" dur="6s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="-50" to="950" dur="6s" repeatCount="indefinite" />
+
+    <!-- Interactive Buttons -->
+    <!-- LinkedIn Button -->
+    <a xlink:href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/" target="_blank">
+      <rect class="btn-bg" x="210" y="88" width="140" height="36" rx="18">
+        <animate attributeName="stroke" values="#30363d;#58a6ff;#30363d" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <circle class="btn-dot" cx="238" cy="106" r="4">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text class="btn-text" x="250" y="111" text-anchor="start">LinkedIn</text>
+    </a>
+
+    <!-- Email Button -->
+    <a xlink:href="mailto:pedrocsoler@hotmail.com">
+      <rect class="btn-bg" x="380" y="88" width="140" height="36" rx="18">
+        <animate attributeName="stroke" values="#30363d;#58a6ff;#30363d" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+      </rect>
+      <circle class="btn-dot" cx="414" cy="106" r="4">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+      <text class="btn-text" x="426" y="111" text-anchor="start">Email</text>
+    </a>
+
+    <!-- Portfolio Button -->
+    <a xlink:href="https://solerpedroo.github.io/portfolio-pedro/" target="_blank">
+      <rect class="btn-bg" x="550" y="88" width="140" height="36" rx="18">
+        <animate attributeName="stroke" values="#30363d;#58a6ff;#30363d" dur="3s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <circle class="btn-dot" cx="574" cy="106" r="4">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <text class="btn-text" x="586" y="111" text-anchor="start">Portfolio</text>
+    </a>
+
+    <!-- Subtle scanning overlay line -->
+    <line x1="-50" y1="0" x2="-50" y2="150" stroke="#58a6ff" stroke-width="2" opacity="0.06">
+      <animate attributeName="x1" from="-50" to="950" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="-50" to="950" dur="8s" repeatCount="indefinite" />
     </line>
   </g>
 </svg>

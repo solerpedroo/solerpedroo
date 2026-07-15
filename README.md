@@ -18,11 +18,9 @@
 
 <br />
 
-<div align="center">
-
-> Software Engineering student at PUC Campinas and certified Informatics Technician, focused on building production-quality systems across **AI & Computer Vision**, **Mobile** and **Cloud** — from award-winning YOLOv8 safety platforms to LLM-powered developer tools and offline-first Flutter applications.
-
-</div>
+<p align="center">
+  <img src="assets/bio.svg" alt="Pedro Soler — Biography" width="900" style="max-width:100%; height:auto;" />
+</p>
 
 <br />
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -254,10 +252,4 @@
 
 <p align="center">
   <img src="assets/footer.svg" alt="" width="900" style="max-width:100%; height:auto;" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-contardi-soler/">LinkedIn</a> &middot;
-  <a href="mailto:pedrocsoler@hotmail.com">pedrocsoler@hotmail.com</a> &middot;
-  <a href="https://solerpedroo.github.io/portfolio-pedro/">Portfolio</a>
 </p>
